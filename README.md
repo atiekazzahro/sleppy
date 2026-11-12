@@ -30,8 +30,7 @@ Berikut adalah dokumentasi antarmuka aplikasi Sleppy Tracker yang dijalankan pad
 
 | 1. Layar Utama (Input & Formulir) | 2. Kasus Input Error (Validasi) | 3. Layar Hasil (Evaluasi Tidur) |
 | :---: | :---: | :---: |
-| ![Layar Utama](docs/screenshots/screenshot_main.png) | ![Kasus Error](docs/screenshots/screenshot_error.png) | ![Layar Hasil](docs/screenshots/screenshot_result.png) |
-
+| ![Layar Utama](docs/screenshots/screenshotmain.png) | ![Kasus Error](docs/screenshots/screenshoterror.png) | ![Layar Hasil](docs/screenshots/screenshotresult.png) |
 
 ---
 
