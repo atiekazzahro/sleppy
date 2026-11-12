@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">sleppy</string>
+    <string name="app_name">Sleppy Tracker</string>
+    <string name="app_tagline">Pantau &amp; perbaiki kualitas tidurmu</string>
+
+    <!-- Labels & Form -->
+    <string name="label_nama">Nama Lengkap / Panggilan</string>
+    <string name="hint_nama">Contoh: Atiek Azzahro</string>
+    <string name="label_jam_tidur">Waktu Mulai Tidur</string>
+    <string name="hint_jam_tidur">Contoh: 22:30</string>
+    <string name="label_jam_bangun">Waktu Bangun</string>
+    <string name="hint_jam_bangun">Contoh: 06:15</string>
+    <string name="format_hint">Format 24 jam (00:00 - 23:59). Bisa ketik manual atau klik tombol jam.</string>
+
+    <string name="btn_simpan">Analisis Kualitas Tidur</string>
+    <string name="btn_reset">Reset Formulir</string>
+    <string name="btn_pilih_jam">Pilih</string>
+
+    <!-- Validation Errors -->
+    <string name="err_nama_empty">Nama pengguna tidak boleh kosong!</string>
+    <string name="err_tidur_empty">Jam mulai tidur wajib diisi!</string>
+    <string name="err_bangun_empty">Jam bangun tidur wajib diisi!</string>
+    <string name="err_format_tidur">Format jam tidur harus JJ:MM (00:00 - 23:59)</string>
+    <string name="err_format_bangun">Format jam bangun harus JJ:MM (00:00 - 23:59)</string>
+    <string name="err_waktu_sama">Jam tidur dan jam bangun tidak boleh sama persis!</string>
+
+    <!-- Screen 2 -->
+    <string name="title_ringkasan">Hasil Evaluasi Tidur</string>
+    <string name="label_durasi">TOTAL DURASI TIDUR</string>
+    <string name="label_detail_waktu">Rincian Waktu Tidur</string>
+    <string name="label_mulai_tidur">Mulai Tidur:</string>
+    <string name="label_selesai_tidur">Bangun Pagi:</string>
+    <string name="label_saran">💡 Catatan &amp; Rekomendasi Kesehatan</string>
+    <string name="btn_bagikan">Bagikan Hasil Tidur</string>
+    <string name="btn_kembali">Kembali &amp; Hitung Ulang</string>
 </resources>
