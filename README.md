@@ -37,7 +37,7 @@ Berikut adalah dokumentasi antarmuka aplikasi Sleppy Tracker yang dijalankan pad
 ## 🎬 Video Demo Aplikasi (1–2 Menit)
 
 > 🔗 **Tautan Video Demo:**  
-> [▶️ Klik di Sini untuk Menonton Video Demo Aplikasi di  Google Drive](https://drive.google.com/drive/folders/1aImAONWVU8nyTS4OlcwT12cy8YctJLKn)  
+> [▶️ Klik di Sini untuk Menonton Video Demo Aplikasi](https://drive.google.com/drive/folders/1aImAONWVU8nyTS4OlcwT12cy8YctJLKn)  
 
 ---
 
